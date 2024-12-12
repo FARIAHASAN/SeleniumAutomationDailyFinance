@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Dailyfinnce Automation">
+
+    <test name="user Registration">
+    <!--    <groups>
+            <run>
+                <include name="smoke"> </include>
+            </run>
+        </groups>-->
+        <classes>
+            <class name="testRunners.RegistrationTestRunner"> </class>
+        </classes>
+
+    </test>
+
+    <test name="Admin Dahboard">
+        <!--    <groups>
+                <run>
+                    <include name="smoke"> </include>
+                </run>
+            </groups>-->
+        <classes>
+            <class name="testRunners.AdminDashboardTestRunner"> </class>
+        </classes>
+
+    </test>
+
+</suite>
