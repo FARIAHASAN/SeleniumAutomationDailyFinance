@@ -37,12 +37,10 @@ The framework includes both smoke and regression testing suites and produces det
 - Smoke Suite: Focused testing of high-priority functionalities (cost management and search).
 ## Reporting:
 Generated Allure reports for regression tests, providing detailed insights into test execution results.
+
 ## Output:
-
-
-
-
-
+![Screenshot 2024-12-11 230654](https://github.com/user-attachments/assets/09ffceaa-85d2-42ad-8293-e4cdbcdf5726)
+![Screenshot 2024-12-11 230628](https://github.com/user-attachments/assets/3bbb98ac-f11e-4e5d-9823-cc5a5a048571)
 
 ## Video Documentation:
 https://github.com/user-attachments/assets/6946af5a-b944-430b-894a-3ffed68152b3
